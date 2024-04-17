@@ -1,10 +1,17 @@
-*# HTML_1
+# HTML_1
+<!DOCTYPE html>
 <head>
 <title> This is, HTML Style Guide and Coding Conventions, headig</title>
 </head>
 <body>
 <h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<p>HTML allows attribute values without quotes.
+
+However, we recommend quoting attribute values, because:
+
+Developers normally quote attribute values
+Quoted values are easier to read
+You MUST use quotes if the value contains spaces</p>
 </body>
 <section>
   <p>This is a paragraph.</p>
